@@ -1,0 +1,10 @@
+E:\Software Development\Projects\HttpClientFactoryTesting\bin\Debug\netcoreapp2.1\HttpClientFactoryTesting.deps.json
+E:\Software Development\Projects\HttpClientFactoryTesting\bin\Debug\netcoreapp2.1\HttpClientFactoryTesting.runtimeconfig.json
+E:\Software Development\Projects\HttpClientFactoryTesting\bin\Debug\netcoreapp2.1\HttpClientFactoryTesting.runtimeconfig.dev.json
+E:\Software Development\Projects\HttpClientFactoryTesting\bin\Debug\netcoreapp2.1\HttpClientFactoryTesting.dll
+E:\Software Development\Projects\HttpClientFactoryTesting\bin\Debug\netcoreapp2.1\HttpClientFactoryTesting.pdb
+E:\Software Development\Projects\HttpClientFactoryTesting\obj\Debug\netcoreapp2.1\HttpClientFactoryTesting.csproj.CoreCompileInputs.cache
+E:\Software Development\Projects\HttpClientFactoryTesting\obj\Debug\netcoreapp2.1\HttpClientFactoryTesting.AssemblyInfoInputs.cache
+E:\Software Development\Projects\HttpClientFactoryTesting\obj\Debug\netcoreapp2.1\HttpClientFactoryTesting.AssemblyInfo.cs
+E:\Software Development\Projects\HttpClientFactoryTesting\obj\Debug\netcoreapp2.1\HttpClientFactoryTesting.dll
+E:\Software Development\Projects\HttpClientFactoryTesting\obj\Debug\netcoreapp2.1\HttpClientFactoryTesting.pdb
